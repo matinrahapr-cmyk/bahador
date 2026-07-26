@@ -1,5 +1,5 @@
-# نسخه آماده GitHub Pages آجر پایا
+# سایت پایانما
 
-تمام فایل‌های داخل این پوشه را در ریشه Repository آپلود کنید. فایل index.html باید در صفحه اول Repository دیده شود.
+نسخه استاتیک آماده انتشار در GitHub Pages.
 
-سپس از Settings > Pages گزینه Deploy from a branch، شاخه main و پوشه /root را انتخاب کنید.
+تمام فایل‌ها و پوشه assets باید مستقیماً در ریشه Repository قرار بگیرند.
